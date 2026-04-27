@@ -1,4 +1,5 @@
-github.com/bwmarrin/discordgo v0.29.0 h1:1f8M6j3GxU8N0pM0LHD7eH5fWf7o8F2k6wVq6F2M4kA=
-github.com/bwmarrin/discordgo v0.29.0/go.mod h1:7q6W7lQfGQ0GfJmFdb0l3K8C2r1G6P1r0s4m8r2b7xM=
-github.com/joho/godotenv v1.5.1 h1:7eLl0M7lQ2dH8sA4vLwX2bW7zJ0Yf3mQ2mVQJ8lTj9A=
-github.com/joho/godotenv v1.5.1/go.mod h1:f4YjkgfHhK4V3Yc1vK7N4l5c8H0vM6qK9r2m6m0g3Vo=
+github.com/bwmarrin/discordgo v0.29.0 h1:FmWeXFaKUwrcL3Cx65c20bTRW+vOb6k8AnaP+EgjDno=
+github.com/bwmarrin/discordgo v0.29.0/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+
