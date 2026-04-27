@@ -3,3 +3,5 @@ github.com/bwmarrin/discordgo v0.29.0/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc8j6wO8sKjQfJ0v6m3G5Xn1M2M4Y7nTtP2QE=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyte7ConWgFQn/8sP3h4DkH+Q0UfcL+g2hE4=
